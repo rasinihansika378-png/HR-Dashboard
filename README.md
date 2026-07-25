@@ -2,9 +2,9 @@
 
 ## Overview
 This Power BI dashboard provides insights into employee demographics, attrition, performance, and workforce trends.
-## Dashboard Preview
 
-!(Screenshot 2026-07-25 202826.png)
+
+
 
 ## Features
 - Employee demographics analysis
